@@ -13,6 +13,15 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 | Blog Post | |
 | ------------- |:-------------|
+|[CNN Fully Convolutional Image Classification with TensorFlow](https://www.learnopencv.com/cnn-fully-convolutional-image-classification-with-tensorflow) | [Code](https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Fully-Convolutional-Image-Classification) |
+|[How to convert a model from PyTorch to TensorRT and speed up inference](https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) | [Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT) |
+|[Efficient image loading](https://www.learnopencv.com/efficient-image-loading/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Efficient-image-loading) |
+|[Graph Convolutional Networks: Model Relations In Data](https://www.learnopencv.com/graph-convolutional-networks-model-relations-in-data/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Graph-Convolutional-Networks-Model-Relations-In-Data)|
+|[Getting Started with Federated Learning with PyTorch and PySyft](https://www.learnopencv.com/federated-learning-using-pytorch-and-pysyft/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Federated-Learning-Intro)|
+|[Creating a Virtual Pen & Eraser](http://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Creating-a-Virtual-Pen-and-Eraser) |
+|[Getting Started with PyTorch Lightning](https://www.learnopencv.com/getting-started-with-pytorch-lightning/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Pytorch-Lightning)|
+|[Multi-Label Image Classification with PyTorch: Image Tagging](https://www.learnopencv.com/multi-label-image-classification-with-pytorch-image-tagging/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification-Image-Tagging)|
+|[Funny Mirrors Using OpenCV](https://www.learnopencv.com/Funny-Mirrors-Using-OpenCV/)|[code](https://github.com/spmallick/learnopencv/tree/master/FunnyMirrors)|
 |[t-SNE for ResNet feature visualization](https://www.learnopencv.com/t-sne-for-resnet-feature-visualization/)|[Code](https://github.com/spmallick/learnopencv/tree/master/TSNE)|
 |[Multi-Label Image Classification with Pytorch](https://www.learnopencv.com/multi-label-image-classification-with-pytorch/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification)|
 |[CNN Receptive Field Computation Using Backprop](https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Receptive-Field-With-Backprop)|
